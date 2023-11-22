@@ -1,0 +1,92 @@
+[
+    {
+      "name": "Katada Alrawi ",
+      "price": 74025,
+      "detail": "Tranquil retreat on Jaktra Garten Street, offering serenity amidst nature's beauty. Ideal for relaxation.",
+      "image": "/images/hause7.jpg"
+    },
+    {
+      "name": "Elegant Central Living",
+      "price": 95000,
+      "detail": "Elegant living on Central Park Avenue, combining luxury and convenience in the heart of Downtown.",
+      "image": "/images/hause4.jpg"
+    },
+    
+    {
+      "name": "Mountain Retreat Haven",
+      "price": 82000,
+      "detail": "Mountain Retreat Lane offers a cozy home, surrounded by nature's beauty and serene mountain views.",
+      "image": "/images/1.jpg"
+    },
+    {
+      "name": "Luxury Heights Residence",
+      "price": 105000,
+      "detail": "Luxury living on Heights Boulevard, an opulent residence providing the epitome of upscale urban lifestyle.",
+      "image": "/images/2.avif"
+    },
+    {
+      "name": "Riverside Charm",
+      "price": 89000,
+      "detail": "Riverside Estate Street residence, a charming home along the river, offering tranquility and scenic views.",
+      "image": "/images/3.avif"
+    },
+    
+      {
+        "name": "Sunset Vista Retreat",
+        "price": 98000,
+        "detail": "Panoramic views on Horizon Hill Lane, a serene retreat with golden sunsets and lush landscapes.",
+        "image": "/images/4.avif"
+      },
+      {
+        "name": "Urban Skyline Loft",
+        "price": 115000,
+        "detail": "Cityscape living on Skylight Avenue, a modern loft offering unparalleled views of the urban skyline.",
+        "image": "/images/4.jpg"
+      },
+      {
+        "name": "Tranquil Garden Haven",
+        "price": 75000,
+        "detail": "Garden Grove Place residence, a tranquil haven surrounded by blooming flowers and lush greenery.",
+        "image": "/images/5.jpg"
+      },
+      {
+        "name": "Harborfront Paradise",
+        "price": 132000,
+        "detail": "Harborview Drive retreat, a waterfront paradise with stunning harbor views and private dock access.",
+        "image": "/images/7.webp"
+      },
+      {
+        "name": "Metropolitan Oasis",
+        "price": 98000,
+        "detail": "Downtown Oasis Boulevard residence, a luxurious urban escape with modern amenities and stylish design.",
+        "image": "/images/8.jpg"
+      },
+      {
+        "name": "Serenity Pines Cottage",
+        "price": 69000,
+        "detail": "Pineview Lane cottage, a charming retreat surrounded by serene pine trees and peaceful nature trails.",
+        "image": "/images/hause1.jpg"
+      },
+      {
+        "name": "Sunrise Valley Estate",
+        "price": 118000,
+        "detail": "Valley Vista Lane estate, an exclusive property offering breathtaking sunrise views and expansive grounds.",
+        "image": "/images/hause2.jpg"
+      },
+      {
+        "name": "Modern Lakeside Residence",
+        "price": 105000,
+        "detail": "Lakeshore Drive modern residence, an architectural gem with stunning lake views and contemporary design.",
+        "image": "/images/property14.jpg"
+      },
+      {
+        "name": "Seaside Oasis",
+        "price": 62000,
+        "detail": "Ocean View Drive residence with breathtaking views, creating a perfect seaside escape for peaceful living.",
+        "image": "/images/hause5.jpg"
+      }
+      
+    ]
+    
+ 
+  

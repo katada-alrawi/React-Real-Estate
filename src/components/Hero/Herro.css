@@ -1,0 +1,83 @@
+.hero-wrapper{
+    color: white;
+    position: relative;
+    padding-bottom: 2rem;
+    
+}
+
+.hero-container{
+   justify-content: space-between;
+   align-items: flex-end; 
+}
+
+/* left said */
+.hero-left{
+    gap:3rem;
+}
+
+.hero-title{
+    font-weight: 600;
+    font-size: 2.1rem;
+    line-height: 3rem;
+}
+
+.orange-circle{
+    height: 3rem;
+    width: 3rem;    
+    background-color: orange;
+    border-radius: 999px;
+    position: absolute;
+    right: 36%;
+    top: -18%;
+    z-index: -1;
+
+}
+.search-bar{
+    background-color: white;
+    border-radius: 5px;
+    border: 3px solid rgba(120, 120,120, 0.374);
+    padding: 0.5rem 1rem;
+    justify-content: space-between;
+    width: 100%;
+    
+}
+.search-bar>input{
+    border: none;
+    outline: none;
+}
+.stats{
+    width: 100%;
+    justify-content: space-between;
+}
+.stat>:nth-child(1){
+    font-size: 2rem;
+    :last-child{
+
+        color: orange;
+    }
+    }
+
+
+
+.hero-title{
+    position: relative;
+    z-index: 1;
+}
+
+/* right said */
+.image-container{
+    width: 30rem;
+    height: 35rem;
+    overflow: hidden;
+    border-radius: 15rem 15rem 0 0;
+    border: 8px solid rgba(255,255, 255 , 0.12);
+
+} 
+image-container>img{
+    width: 100%;
+    height: 100%;
+}
+
+.secondaryText{
+    color:rgb(115, 110, 110)
+}
