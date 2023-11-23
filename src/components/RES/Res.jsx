@@ -13,7 +13,7 @@ const Res = () => {
           <span className="primaryText">Popular Residencies</span>
         </div>
         <Swiper {...sliderSettings}>
-          <SliderButtons /> {/* Corrected component name */}
+          <SliderButtons /> 
           {data.map((card, i) => (
             <SwiperSlide key={i}>
               <div className="flexColStart r-card">

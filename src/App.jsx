@@ -4,6 +4,11 @@ import './App.css'
 import Companies from "./components/Companies/Companies"
 import Res from './components/RES/Res'
 import Value from "./components/Value/Value"
+import Contact from "./components/Contact/Contact"
+import Getstart from './components/Getstart/Getstart'
+import Footer from "./components/Footer/Footer"
+
+
 function App() {
 
 
@@ -18,6 +23,9 @@ function App() {
      
         <Res />
         <Value />
+        <Contact/>
+        <Getstart />
+        <Footer />
        
     </div>
   )

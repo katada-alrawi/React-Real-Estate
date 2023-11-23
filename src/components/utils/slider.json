@@ -6,6 +6,12 @@
       "image": "/images/hause7.jpg"
     },
     {
+      "name": "Luxury Heights Residence",
+      "price": 105000,
+      "detail": "Luxury living on Heights Boulevard, an opulent residence providing the epitome of upscale urban lifestyle.",
+      "image": "/images/2.avif"
+    },
+    {
       "name": "Elegant Central Living",
       "price": 95000,
       "detail": "Elegant living on Central Park Avenue, combining luxury and convenience in the heart of Downtown.",
@@ -18,12 +24,7 @@
       "detail": "Mountain Retreat Lane offers a cozy home, surrounded by nature's beauty and serene mountain views.",
       "image": "/images/1.jpg"
     },
-    {
-      "name": "Luxury Heights Residence",
-      "price": 105000,
-      "detail": "Luxury living on Heights Boulevard, an opulent residence providing the epitome of upscale urban lifestyle.",
-      "image": "/images/2.avif"
-    },
+   
     {
       "name": "Riverside Charm",
       "price": 89000,
@@ -36,6 +37,12 @@
         "price": 98000,
         "detail": "Panoramic views on Horizon Hill Lane, a serene retreat with golden sunsets and lush landscapes.",
         "image": "/images/4.avif"
+      },
+      {
+        "name": "Modern Lakeside Residence",
+        "price": 105000,
+        "detail": "Lakeshore Drive modern residence, an architectural gem with stunning lake views and contemporary design.",
+        "image": "/images/8.jpg"
       },
       {
         "name": "Urban Skyline Loft",
@@ -74,17 +81,13 @@
         "image": "/images/hause2.jpg"
       },
       {
-        "name": "Modern Lakeside Residence",
-        "price": 105000,
-        "detail": "Lakeshore Drive modern residence, an architectural gem with stunning lake views and contemporary design.",
-        "image": "/images/property14.jpg"
-      },
-      {
         "name": "Seaside Oasis",
         "price": 62000,
         "detail": "Ocean View Drive residence with breathtaking views, creating a perfect seaside escape for peaceful living.",
         "image": "/images/hause5.jpg"
       }
+     
+     
       
     ]
     
